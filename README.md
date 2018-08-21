@@ -19,13 +19,20 @@ You can also find both versions of the script that I used whilst editing the vid
 
 ## Neurons & Reactions
 
+![Neurons](screenshots/neurons.png?raw=true "Neurons")
+
 This animation is a combination of a human waving and a signal going through neurons. I really wanted to highlight how neurons do absolutely everything for a human. I seperated the arm from the body and moved it individually. The challenge was to make sure all the moving files coordinated well with each other and weren't too confusing.
 
+
 ## Neural Pathways
+
+![Pathways](screenshots/pathways.png?raw=true "Pathways")
 
 These animations were veru significant becuase they showed how amount of signals going through your brain can strengthen your pathways. These were tedious-- I had to animate every pathway manually, making sure they followed the pathway cleanly, and then send the correct amount of 'signals' at a time. 
 
 ## Synapses
+
+![Synapes](screenshots/synapses.png?raw=true "Synapses")
 
 This animation was to demonstrate how 
   
