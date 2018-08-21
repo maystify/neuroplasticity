@@ -18,7 +18,8 @@ You can also find both versions of the script that I used whilst editing the vid
 ## External resources:
 1) Space Image : https://commons.wikimedia.org/wiki/File:Andromeda_Galaxy_(with_h-alpha).jpg (Creative Commons Liscence)
 2) Dynamic Shapes: https://www.youtube.com/watch?v=gaaoBOx2MrI (Creative Commons Liscence) 
-*These are the only external sources I used within this project.
+
+*These are the only external sources I used within this project.*
 
 ## Neurons & Reactions
 
