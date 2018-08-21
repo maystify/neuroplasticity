@@ -1,6 +1,8 @@
-# neuroplasticity
+# Neuroplasticy - Breakthough Junior Challenge
 
-This GitHub repository contains all the assets (animations, stills, voiceovers...) that I created and used within my Neurolasticity video for the Science Breakthrough Junior Challenge. 
+This GitHub repository contains all the assets (animations, stills, voiceovers...) that I created and used within my Neurolasticity video for the Science Breakthrough Junior Challenge. You can find this video at https://youtu.be/WrbaflYcbFY.
+
+[![video](https://img.youtube.com/vi/WrbaflYcbFY/0.jpg)](https://www.youtube.com/watch?v=WrbaflYcbFY)
 
 I created and designed all the animations in the video. First I used Photoshop to draw/construct the parts and then used Premiere to move/manipulate them all into a cohesive animation. 
 
@@ -32,7 +34,7 @@ These animations were veru significant becuase they showed how amount of signals
 
 ## Synapses
 
-![Synapes](screenshots/synapses.png?raw=true "Synapses")
+![Synapes](screenshots/synapse.png?raw=true "Synapses")
 
 This animation was to demonstrate how 
   
